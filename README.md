@@ -10,11 +10,11 @@
 #### Connect with me: 
 
 
-- [<img align='left' alt='https://www.linkedin.com/in/damir-uakhit-75b0b9132/' width='22px' src='file:///C:/Users/user/Downloads/linkedin.svg' />](https://www.linkedin.com/in/damir-uakhit-75b0b9132/)
+[<img align='left' alt='https://www.linkedin.com/in/damir-uakhit-75b0b9132/' width='22px' src='file:///C:/Users/user/Downloads/linkedin.svg' />](https://www.linkedin.com/in/damir-uakhit-75b0b9132/)
 
-- [<img align='left' alt='https://www.instagram.com/damir.gst/' padding-left="10px" width='22px' src='file:///C:/Users/user/Downloads/instagram.svg' />](https://www.instagram.com/damir.gst/)
+[<img align='left' alt='https://www.instagram.com/damir.gst/' padding-left="10px" width='22px' src='file:///C:/Users/user/Downloads/instagram.svg' />](https://www.instagram.com/damir.gst/)
 
-- [<img align='left' alt='https://www.facebook.com/profile.php?id=100004856475563' width='22px' src='file:///C:/Users/user/Downloads/facebook.svg' />](https://www.facebook.com/profile.php?id=100004856475563)
+[<img align='left' alt='https://www.facebook.com/profile.php?id=100004856475563' width='22px' src='file:///C:/Users/user/Downloads/facebook.svg' />](https://www.facebook.com/profile.php?id=100004856475563)
 
 
 <br/>
