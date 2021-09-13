@@ -20,12 +20,12 @@
 <br/>
 
 ### Languages:
-<img width='26px' padding-left="1px" src='file:///C:/Users/user/Downloads/html5.svg' />
-<img width='26px' padding-left="10px" src='file:///C:/Users/user/Downloads/css3.svg' />
-<img width='26px' padding-left="10px" src='file:///C:/Users/user/Downloads/javascript%20(1).svg' />
-<img width='26px' padding-left="10px" src='file:///C:/Users/user/Downloads/typescript%20(1).svg' />
-<img width='26px' padding-left="10px" src='file:///C:/Users/user/Downloads/redux.svg' />
-<img width='26px' padding-left="10px" src='file:///C:/Users/user/Downloads/bootstrap.svg' />
-<img width='26px' padding-left="10px" src='file:///C:/Users/user/Downloads/materialui.svg' />
-<img width='26px' padding-left="10px" src='file:///C:/Users/user/Downloads/nodedotjs.svg' />
-<img width='26px' padding-left="10px" src='file:///C:/Users/user/Downloads/storybook.svg' />
+<img alt='https://www.facebook.com/profile.php?id=100004856475563' width='26px' padding-left="1px" src='file:///C:/Users/user/Downloads/html5.svg' />
+<img alt='https://www.facebook.com/profile.php?id=100004856475563' width='26px' padding-left="10px" src='file:///C:/Users/user/Downloads/css3.svg' />
+<img alt='https://www.facebook.com/profile.php?id=100004856475563' width='26px' padding-left="10px" src='file:///C:/Users/user/Downloads/javascript%20(1).svg' />
+<img alt='https://www.facebook.com/profile.php?id=100004856475563' width='26px' padding-left="10px" src='file:///C:/Users/user/Downloads/typescript%20(1).svg' />
+<img alt='https://www.facebook.com/profile.php?id=100004856475563' width='26px' padding-left="10px" src='file:///C:/Users/user/Downloads/redux.svg' />
+<img alt='https://www.facebook.com/profile.php?id=100004856475563' width='26px' padding-left="10px" src='file:///C:/Users/user/Downloads/bootstrap.svg' />
+<img alt='https://www.facebook.com/profile.php?id=100004856475563' width='26px' padding-left="10px" src='file:///C:/Users/user/Downloads/materialui.svg' />
+<img alt='https://www.facebook.com/profile.php?id=100004856475563' width='26px' padding-left="10px" src='file:///C:/Users/user/Downloads/nodedotjs.svg' />
+<img alt='https://www.facebook.com/profile.php?id=100004856475563' width='26px' padding-left="10px" src='file:///C:/Users/user/Downloads/storybook.svg' />
