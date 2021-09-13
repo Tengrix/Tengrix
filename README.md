@@ -10,7 +10,7 @@
 #### Connect with me: 
 
 
-[<img align='left' alt='https://www.linkedin.com/in/damir-uakhit-75b0b9132/' width='22px' src='file:///C:/Users/user/Downloads/linkedin.svg' />](https://www.linkedin.com/in/damir-uakhit-75b0b9132/)
+[<img align='left' alt='https://www.linkedin.com/in/damir-uakhit-75b0b9132/' width='22px' src='https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png' />](https://www.linkedin.com/in/damir-uakhit-75b0b9132/)
 
 [<img align='left' alt='https://www.instagram.com/damir.gst/' padding-left="10px" width='22px' src='file:///C:/Users/user/Downloads/instagram.svg' />](https://www.instagram.com/damir.gst/)
 
