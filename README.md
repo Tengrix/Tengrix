@@ -3,7 +3,7 @@
 ### I'm Front End Developer
 
 - 🔭 I'm currently **LookingForJob**
-- 🌱 I'm currently soak up knowledge like a sponge
+- 🌱 Currently mode is: soak up knowledge like a sponge
 - 👯 I’m looking someone to team up with and create some fun project
 - ⚡ I like watching this guy **[Joma Tech](https://www.youtube.com/c/JomaOppa)**
 - 📫 How to reach me: _[damir861@gmail.com]()_
