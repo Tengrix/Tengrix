@@ -24,6 +24,6 @@
 
 ### Activites:
 
-[<img align='left' width='150px' src='https://www.codewars.com/users/Damir.gst/badges/large' />](https://www.codewars.com/users/Damir.gst/badges/large)
+[<img align='left' width='350px' src='https://www.codewars.com/users/Damir.gst/badges/large' />](https://www.codewars.com/users/Damir.gst/badges/large)
 
 
