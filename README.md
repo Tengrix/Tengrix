@@ -30,4 +30,4 @@
 
 ---
 
-<img alt='Tengrix Github stats' src='https://github-readme-stats-tengrix.vercel.app/api?username=tengrix&show_icons=true&theme=dark'/>
+<img alt='Tengrix Github stats' src='https://github-readme-stats-5jghnybfe-tengrix.vercel.app/api?username=tengrix&show_icons=true&theme=dark'/>
