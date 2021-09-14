@@ -21,3 +21,9 @@
 
 ### Languages:
 <img alt='https://www.facebook.com/profile.php?id=100004856475563' width='26px' padding-left="1px" src='https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-256.png' /><img alt='https://www.facebook.com/profile.php?id=100004856475563' width='26px' padding-left="10px" src='https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-512.png' /><img alt='https://www.facebook.com/profile.php?id=100004856475563' width='26px' padding-left="10px" src='https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-512.png' /><img alt='https://www.facebook.com/profile.php?id=100004856475563' width='26px' padding-left="10px" src='https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_typescript_official_icon_130107.png' /><img alt='https://www.facebook.com/profile.php?id=100004856475563' width='26px' padding-left="10px" src='https://cdn1.iconfinder.com/data/icons/soleicons-fill-vol-1/64/reactjs_javascript_library_atom_atomic_react-256.png' /><img alt='https://www.facebook.com/profile.php?id=100004856475563' width='26px' padding-left="10px" src='https://cdn.icon-icons.com/icons2/2415/PNG/512/bootstrap_plain_logo_icon_146619.png' /><img alt='https://www.facebook.com/profile.php?id=100004856475563' width='26px' padding-left="10px" src='https://cdn.icon-icons.com/icons2/2248/PNG/512/material_ui_icon_137419.png' /><img alt='https://www.facebook.com/profile.php?id=100004856475563' width='26px' padding-left="10px" src='https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/233_Node_Js_logo-128.png' /><img alt='https://www.facebook.com/profile.php?id=100004856475563' width='26px' padding-left="10px" src='https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_storybook_icon_130145.png' />
+
+### Activites:
+
+[<img align='left' width='150px' src='https://www.codewars.com/users/Damir.gst/badges/large' />](https://www.codewars.com/users/Damir.gst/badges/large)
+
+
