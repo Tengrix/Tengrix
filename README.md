@@ -26,4 +26,8 @@
 
 [<img align='left' width='350px' src='https://www.codewars.com/users/Damir.gst/badges/large' />](https://www.codewars.com/users/Damir.gst/badges/large)
 
+<br/>
 
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
