@@ -28,6 +28,6 @@
 
 <br/>
 
-# Blog posts
+# Latest Youtube Videos
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
