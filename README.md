@@ -28,6 +28,6 @@
 
 <br/>
 
-# Latest Youtube Videos
-<!-- YOUTUBE:START -->
-<!-- YOUTUBE:END -->
+---
+
+<img alt='Tengrix Github stats' src='https://github-readme-stats.vercel.app/api?username=tengrix&show_icons=true&theme=dark'/>
